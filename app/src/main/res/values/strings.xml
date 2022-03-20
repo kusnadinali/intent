@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="username_hint">username</string>
+</resources>
